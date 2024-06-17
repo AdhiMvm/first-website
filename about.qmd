@@ -2,4 +2,7 @@
 title: "About"
 ---
 
-Adhithan Manivassakam
+## About Me
+My name is **Adhithan Manivassakam** and I will be a senior at *Adlai E Stevenson High School* for the following school year.
+
+[Kane's Free Data Science Bootcamp](https://bootcamp.davidkane.info)
